@@ -12,3 +12,4 @@ These are just notes
 
 Code line 4 var d = 0
 if c = 1
+new line 
